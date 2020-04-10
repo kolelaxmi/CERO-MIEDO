@@ -17,7 +17,7 @@
 
 ![home](https://user-images.githubusercontent.com/62421629/78994125-f96b7c00-7b5c-11ea-9b67-eb69edf245e3.png)
 
-### 5.Selling Page
+### 5.Item Addition Page
 
 ![seller](https://user-images.githubusercontent.com/62421629/78994232-291a8400-7b5d-11ea-8ea5-71d72afa99bc.png)
 
