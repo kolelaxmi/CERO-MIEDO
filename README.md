@@ -19,11 +19,17 @@
 
 ### 5.Selling Page
 
+![seller](https://user-images.githubusercontent.com/62421629/78994232-291a8400-7b5d-11ea-8ea5-71d72afa99bc.png)
 
 ### 6.Shopping Page
 
+![shop](https://user-images.githubusercontent.com/62421629/78994296-4e0ef700-7b5d-11ea-99bf-2c2bd3f70101.png)
 
 ### 7.Cart Page
 
+![cart](https://user-images.githubusercontent.com/62421629/78994316-5d8e4000-7b5d-11ea-8bb9-1ff4b45262bf.png)
+
 
 ### 8.Checkout Page
+
+![checkout](https://user-images.githubusercontent.com/62421629/78994341-6c74f280-7b5d-11ea-885c-0cfda1e6ee5b.png)
