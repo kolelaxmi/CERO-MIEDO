@@ -1,4 +1,7 @@
 # CERO MIEDO
+
+This project makes use of basic HTML, CSS and Bootstrap to create a functioning website.
+
 ## Screenshots of the website
 
 ### 1.Signup Page
